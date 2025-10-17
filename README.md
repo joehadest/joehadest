@@ -20,16 +20,12 @@ Desenvolvedor Front-end — TypeScript • JavaScript • HTML • CSS
 - Hospedagem: Vercel
 
 ## Projetos em destaque
-- cardapiomodelo — [Repositório](https://github.com/joehadest/cardapiomodelo) • [Demo](https://cardapiomodelo.vercel.app) — Cardápio digital
 - acai — [Repositório](https://github.com/joehadest/acai) • [Demo](https://acaialtostop.vercel.app) — Landing page de açaí
 - reidossalgados — [Repositório](https://github.com/joehadest/reidossalgados) • [Demo](https://reidossalgados.webpulseservicos.com) — Website institucional
 - docheffrn — [Repositório](https://github.com/joehadest/docheffrn) • [Demo](https://www.do-cheff-rn.com.br/) — Site comercial
 - webpulse — [Repositório](https://github.com/joehadest/webpulse) • [Demo](https://www.webpulseservicos.com) — Website da Webpulse Serviços
 - gest-odeprodutos — [Repositório](https://github.com/joehadest/gest-odeprodutos) • [Demo](https://gest-odeprodutos.vercel.app) — Gestão de produtos (demo)
 - jj-tattoo — [Repositório](https://github.com/joehadest/jj-tattoo) • [Demo](https://jj-tattoo.vercel.app) — Landing page de estúdio
-- cantinhodoceu — [Repositório](https://github.com/joehadest/cantinhodoceu) • [Demo](https://cantinhodoceu.vercel.app) — Landing page
-- lava-rapido — [Repositório](https://github.com/joehadest/lava-rapido) • [Demo](https://lava-rapido.vercel.app) — Landing page de serviço
-- cardapio-digital-better — [Repositório](https://github.com/joehadest/cardapio-digital-better) • [Demo](https://cardapio-digital-teste.vercel.app) — Cardápio digital (versão melhorada)
 
 <!-- Sinta-se à vontade para fixar (pin) estes repositórios no seu perfil para aparecerem no topo. -->
 
