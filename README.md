@@ -1,16 +1,50 @@
-### Olá me chamo Joel Melo da Silva, mas pode me chamar de joe 🖐
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-melo-ab60b729b/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joehadest/)
+# Olá, eu sou o Joel Melo (joe) 👋
+Desenvolvedor Front-end — TypeScript • JavaScript • HTML • CSS
 
-![joehadest's GitHub stats](https://github-readme-stats.vercel.app/api?username=joehadest&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joel--melo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-melo-ab60b729b/)
+[![Instagram](https://img.shields.io/badge/Instagram-@joehadest-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joehadest/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joehadest&layout=compact)
-
-<div style= "display inline_block"></br>
-<img aling= center alt=HMTL5 src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white> 
-<img aling= center alt=CSS3 src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> 
-<img aling= center alt=JAVASCRIPT src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black> 
 </div>
 
+## Sobre mim
+- Transformo ideias em interfaces simples, responsivas e acessíveis.
+- Foco em projetos web com HTML, CSS, JavaScript e TypeScript.
+- Experiência com deploy e hospedagem em Vercel para sites e apps estáticos.
 
+## Stack e conhecimentos
+- Linguagens: TypeScript, JavaScript, HTML5, CSS3
+- Práticas: responsividade, semântica, acessibilidade básica, otimização de performance e SEO básico
+- Ferramentas: Git, GitHub, VS Code, Figma
+- Hospedagem: Vercel
+
+## Projetos em destaque
+- cardapiomodelo — [Repositório](https://github.com/joehadest/cardapiomodelo) • [Demo](https://cardapiomodelo.vercel.app) — Cardápio digital
+- acai — [Repositório](https://github.com/joehadest/acai) • [Demo](https://acaialtostop.vercel.app) — Landing page de açaí
+- reidossalgados — [Repositório](https://github.com/joehadest/reidossalgados) • [Demo](https://reidossalgados.webpulseservicos.com) — Website institucional
+- docheffrn — [Repositório](https://github.com/joehadest/docheffrn) • [Demo](https://www.do-cheff-rn.com.br/) — Site comercial
+- webpulse — [Repositório](https://github.com/joehadest/webpulse) • [Demo](https://www.webpulseservicos.com) — Website da Webpulse Serviços
+- gest-odeprodutos — [Repositório](https://github.com/joehadest/gest-odeprodutos) • [Demo](https://gest-odeprodutos.vercel.app) — Gestão de produtos (demo)
+- jj-tattoo — [Repositório](https://github.com/joehadest/jj-tattoo) • [Demo](https://jj-tattoo.vercel.app) — Landing page de estúdio
+- cantinhodoceu — [Repositório](https://github.com/joehadest/cantinhodoceu) • [Demo](https://cantinhodoceu.vercel.app) — Landing page
+- lava-rapido — [Repositório](https://github.com/joehadest/lava-rapido) • [Demo](https://lava-rapido.vercel.app) — Landing page de serviço
+- cardapio-digital-better — [Repositório](https://github.com/joehadest/cardapio-digital-better) • [Demo](https://cardapio-digital-teste.vercel.app) — Cardápio digital (versão melhorada)
+
+<!-- Sinta-se à vontade para fixar (pin) estes repositórios no seu perfil para aparecerem no topo. -->
+
+## Estatísticas
+<div align="left">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joehadest&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joehadest&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+<!-- Opcional:
+![Streak](https://streak-stats.demolab.com?user=joehadest&theme=radical&hide_border=true)
+-->
+
+</div>
+
+## Contato
+- LinkedIn: [joel-melo](https://www.linkedin.com/in/joel-melo-ab60b729b/)
+- Instagram: [@joehadest](https://www.instagram.com/joehadest/)
