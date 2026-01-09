@@ -24,7 +24,7 @@ Desenvolvedor Front-end — TypeScript • JavaScript • HTML • CSS
 - reidossalgados — [Repositório](https://github.com/joehadest/reidossalgados) • [Demo](https://reidossalgados.webpulseservicos.com) — Website institucional
 - docheffrn — [Repositório](https://github.com/joehadest/docheffrn) • [Demo](https://www.do-cheff-rn.com.br/) — Site comercial
 - webpulse — [Repositório](https://github.com/joehadest/webpulse) • [Demo](https://www.webpulseservicos.com) — Website da Webpulse Serviços
-- gest-odeprodutos — [Repositório](https://github.com/joehadest/gest-odeprodutos) • [Demo](https://gest-odeprodutos.vercel.app) — Gestão de produtos (demo)
+- cafereal — [Repositório](https://github.com/joehadest/cafereal) • [Demo](https://cafereal.webpulseservicos.com/) — cafereal (demo)
 - jj-tattoo — [Repositório](https://github.com/joehadest/jj-tattoo) • [Demo](https://jj-tattoo.vercel.app) — Landing page de estúdio
 
 <!-- Sinta-se à vontade para fixar (pin) estes repositórios no seu perfil para aparecerem no topo. -->
