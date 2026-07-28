@@ -9,7 +9,6 @@ Quando não estou codando, você provavelmente me encontrará trabalhando na min
 ### 👨‍💻 Sobre Mim
 * 🎓 Estudante de **Engenharia da Computação** na UNP (Previsão de formatura: 2027).
 * 💻 Foco principal no ecossistema **TypeScript/JavaScript** e **React**.
-* 📍 Residindo em Alto do Rodrigues, Rio Grande do Norte.
 * 🚀 Explorando ferramentas e infraestruturas modernas como Supabase, Vercel e Cursor AI.
 
 ---
