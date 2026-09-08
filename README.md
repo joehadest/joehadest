@@ -72,19 +72,23 @@ Quando não estou codando, você provavelmente me encontrará trabalhando na **o
 
 ### 📊 Atividade no GitHub
 
-<!-- Cards gerados a partir dos commits, PRs, issues e streak da conta -->
+<!--
+  Os endpoints públicos do github-readme-stats / activity-graph costumam cair (503/402).
+  Estes cards usam alternativas que estão respondendo.
+-->
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joehadest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joehadest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joehadest&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joehadest&theme=tokyonight" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joehadest&theme=tokyonight" alt="Linguagens por commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joehadest&theme=tokyonight" alt="Detalhes do perfil" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joehadest&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joehadest&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -184,10 +188,6 @@ Quando não estou codando, você provavelmente me encontrará trabalhando na **o
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</p>
 
 <p align="center">
   <i>“Código limpo, interface clara e produto no ar.”</i>
