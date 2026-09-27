@@ -25,12 +25,9 @@
 
 ---
 
-### Um pouco sobre mim
 
-Sou um desenvolvedor apaixonado por criar **interfaces modernas, rápidas e focadas na experiência do usuário**.  
+Sou um desenvolvedor profissional em criar **interfaces rápidas e focadas na experiência do usuário**.  
 Tenho experiência na construção de landing pages dinâmicas, sistemas de pedidos digitais e aplicações web responsivas.
-
-Quando não estou codando, você provavelmente me encontrará trabalhando na **oficina mecânica** ou curtindo a estrada de moto. 🏍️🔧
 
 <details open>
 <summary><strong>👨‍💻 Sobre mim</strong></summary>
